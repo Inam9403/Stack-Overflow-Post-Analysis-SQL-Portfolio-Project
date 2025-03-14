@@ -77,4 +77,5 @@ Examined the frequency and significance of related post links.
 
 ## Connect me 
 www.linkedin.com/in/inam-ul-haq0
+
 https://github.com/Inam9403/Stack-Overflow-Post-Analysis-SQL-Portfolio-Project
