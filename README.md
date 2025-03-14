@@ -18,23 +18,24 @@ Implement advanced SQL techniques including joins, subqueries, CTEs, and window 
 
 ## 🗂️ Dataset Tables & Key Fields
 
-badges: User achievements (id, user_id, name, date)
+🏅 badges: User achievements (id, user_id, name, date)
 
-comments: User comments on posts (id, post_id, user_id, creation_date, text)
+💬 comments: User comments on posts (id, post_id, user_id, creation_date, text)
 
-post_history: Edits and changes to posts (id, post_history_type_id, post_id, user_id, text, creation_date)
+📝 post_history: Edits and changes to posts (id, post_history_type_id, post_id, user_id, text, creation_date)
 
-post_links: Links between related posts (id, post_id, related_post_id, link_type_id)
+🔗 post_links: Links between related posts (id, post_id, related_post_id, link_type_id)
 
-posts_answers: Questions & answers (id, post_type_id, creation_date, score, view_count, owner_user_id)
+❓ posts_answers: Questions & answers (id, post_type_id, creation_date, score, view_count, owner_user_id)
 
-tags: Tags assigned to posts (id, tag_name)
+🏷️ tags: Tags assigned to posts (id, tag_name)
 
-users: User details (id, display_name, reputation, creation_date)
+👤 users: User details (id, display_name, reputation, creation_date)
 
-votes: User voting activity (id, post_id, vote_type_id, creation_date)
+👍 votes: User voting activity (id, post_id, vote_type_id, creation_date)
 
-posts: Main post data (id, title, post_type_id, creation_date, score, view_count, owner_user_id)
+📄 posts: Main post data (id, title, post_type_id, creation_date, score, view_count, owner_user_id)
+
 
 ## 🔍 SQL Concepts Covered
 
@@ -73,3 +74,7 @@ Analyzed the most commonly earned badges and top badge earners.
 Found the tags linked to the highest-scoring posts.
 
 Examined the frequency and significance of related post links.
+
+## Connect me 
+www.linkedin.com/in/inam-ul-haq0
+https://github.com/Inam9403/Stack-Overflow-Post-Analysis-SQL-Portfolio-Project
